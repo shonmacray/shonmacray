@@ -7,7 +7,7 @@
 - 🤔 I’m currently looking for for a remote front-end positon
 - 💬 Ask me about HTML/CSS | JavaScript | React and React Native
 - 📫 How to reach me: ...
-LinkedIn - (https://www.linkedin.com/in/shon-macray/)
-Twitter  - (https://www.twitter.com/chaos_ao/)
-Email    -  shonmacray@gmail.com
+- LinkedIn - (https://www.linkedin.com/in/shon-macray/)
+- Twitter  - (https://www.twitter.com/chaos_ao/)
+- Email    -  shonmacray@gmail.com
 -->
