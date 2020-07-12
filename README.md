@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**shonmacray/shonmacray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![shon](https://www.safeway.ca/wp-content/uploads/2019/09/Chocolate_Chip_Cookies_sob-1260x600.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
