@@ -1,12 +1,11 @@
 ### Hi there 👋
-![shon](https://www.safeway.ca/wp-content/uploads/2019/09/Chocolate_Chip_Cookies_sob-1260x600.jpg)
+![shon](https://www.rei.com/media/9d7204a0-eb71-4ee6-a89b-e430fb1e9dae?size=784x588)
 
-- 🔭 I’m currently working on @Tapapp
-- 🌱 I’m currently learning @gatsby | @flutter
+- 🔭 I’m currently working 
+- 🌱 I’m currently learning @python | @flutter
 - 👯 I’m looking to collaborate on @NextJs
-- 🤔 I’m currently looking for for a remote front-end positon
-- 💬 Ask me about HTML/CSS | JavaScript | React and React Native
-- 📫 How to reach me: ...
+- 💬 Ask me about NodeJS
+- 📫 Reach out: ...
 - LinkedIn - (https://www.linkedin.com/in/shon-macray/)
 - Twitter  - (https://www.twitter.com/chaos_ao/)
 - Email    -  shonmacray@gmail.com
