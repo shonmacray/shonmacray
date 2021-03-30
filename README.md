@@ -1,12 +1,9 @@
 ### Hi there 👋
-![shon](https://www.rei.com/media/9d7204a0-eb71-4ee6-a89b-e430fb1e9dae?size=784x588)
-
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning @python | @flutter
-- 👯 I’m looking to collaborate on @NextJs
+- 🌱 
+- 👯 I’m a successfull software developer full-stack.
 - 💬 Ask me about NodeJS
 - 📫 Reach out: ...
 - LinkedIn - (https://www.linkedin.com/in/shon-macray/)
-- Twitter  - (https://www.twitter.com/chaos_ao/)
+- Twitter  - (https://www.twitter.com/shon-macray/)
 - Email    -  shonmacray@gmail.com
 -->
