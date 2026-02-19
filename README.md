@@ -9,8 +9,8 @@
 
 ### 🌐 Socials:
 
-[[!X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chaosmcrae)
-[[!linkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shon-macray/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chaosmcrae)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shon-macray/)
 
 # 💻 Tech Stack:
 
@@ -45,11 +45,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?shonmacray&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shonmacray&theme=dark&hide_border=true)
 
 ## 🏆 Top Repositories:
 
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?shonmacray&layout=compact&theme=dark&hide_border=true)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=shonmacray&layout=compact&theme=dark&hide_border=true)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?shonmacray&repo=Tapy-for-instagram&theme=dark&hide_border=true)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shonmacray&repo=Tapy-for-instagram&theme=dark&hide_border=true)
 
