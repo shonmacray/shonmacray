@@ -49,7 +49,7 @@
 
 ## 🏆 Top Repositories:
 
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=shonmacray&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shonmacray&layout=compact&theme=dark&hide_border=true)
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=shonmacray&repo=Tapy-for-instagram&theme=dark&hide_border=true)
 
