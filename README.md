@@ -9,7 +9,8 @@
 
 ### 🌐 Socials:
 
-![X](https://x.com/chaosmcrae) ![linkedIn](https://www.linkedin.com/in/shon-macray/)
+[[!X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chaosmcrae)
+[[!linkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shon-macray/)
 
 # 💻 Tech Stack:
 
@@ -41,4 +42,14 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?shonmacray&theme=dark&hide_border=true)
+
+## 🏆 Top Repositories:
+
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?shonmacray&layout=compact&theme=dark&hide_border=true)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?shonmacray&repo=Tapy-for-instagram&theme=dark&hide_border=true)
 
